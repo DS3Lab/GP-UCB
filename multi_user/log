@@ -1,0 +1,717 @@
+prior mean for user 0 is:
+0.44 
+0.51375 
+0.4422 
+0.46625 
+0.464 
+0.455 
+0.48 
+0.465 
+0.48 
+
+
+------------------------------------------------------
+kernel matrix for user 0 is:
+0.5 0.460728 0.475644 0.478668 0.448326 0.488436 0.470788 0.486973 0.479339 
+0.460728 0.5 0.415758 0.478573 0.463664 0.485805 0.469566 0.491769 0.483092 
+0.481868 0.451196 0.5 0.485272 0.469297 0.478415 0.444201 0.474561 0.459237 
+0.478668 0.478573 0.466618 0.5 0.489371 0.486875 0.475615 0.488534 0.465359 
+0.448326 0.463664 0.451888 0.489371 0.5 0.460853 0.44438 0.466996 0.440733 
+0.488436 0.485805 0.475934 0.486875 0.460853 0.5 0.473811 0.49552 0.484253 
+0.472864 0.495619 0.444201 0.478381 0.452813 0.490099 0.5 0.495322 0.486973 
+0.486973 0.491769 0.45934 0.488534 0.466996 0.49552 0.491179 0.5 0.491965 
+0.479339 0.483092 0.426054 0.465359 0.440733 0.484253 0.470318 0.491965 0.5 
+------------------------------------------------------
+prior mean for user 1 is:
+0.435714 
+0.512857 
+0.433429 
+0.461429 
+0.482857 
+0.444286 
+0.464286 
+0.451429 
+0.497143 
+
+
+------------------------------------------------------
+kernel matrix for user 1 is:
+0.5 0.446129 0.477972 0.47457 0.450342 0.484641 0.477808 0.481164 0.471448 
+0.446129 0.5 0.425758 0.460268 0.449443 0.440631 0.471731 0.463686 0.48406 
+0.477972 0.425758 0.5 0.466618 0.466581 0.485798 0.455079 0.45934 0.439392 
+0.475234 0.463965 0.470686 0.5 0.488827 0.465452 0.480683 0.486097 0.461005 
+0.450342 0.449443 0.466581 0.472539 0.5 0.46202 0.465824 0.44351 0.432684 
+0.484641 0.440631 0.485798 0.459072 0.46202 0.5 0.476853 0.468253 0.45843 
+0.477808 0.471731 0.455079 0.475615 0.465824 0.476853 0.5 0.491179 0.48435 
+0.484544 0.4706 0.463345 0.486097 0.468815 0.476091 0.497805 0.5 0.484738 
+0.471448 0.48406 0.439392 0.452781 0.432684 0.45843 0.48435 0.466104 0.5 
+------------------------------------------------------
+prior mean for user 2 is:
+0.445 
+0.5 
+0.4225 
+0.4475 
+0.46 
+0.4275 
+0.435 
+0.425 
+0.5 
+
+
+------------------------------------------------------
+kernel matrix for user 2 is:
+0.5 0.478286 0.493542 0.495718 0.489512 0.488436 0.497805 0.494036 0.484447 
+0.478286 0.5 0.460728 0.480875 0.468253 0.451605 0.473716 0.471448 0.491474 
+0.493542 0.460728 0.5 0.480779 0.481453 0.497407 0.489022 0.483963 0.463872 
+0.495718 0.480875 0.480779 0.5 0.482803 0.471448 0.497108 0.497506 0.486486 
+0.489512 0.468253 0.481453 0.482803 0.5 0.484544 0.490688 0.474854 0.486389 
+0.488436 0.451605 0.497407 0.471448 0.484544 0.5 0.483382 0.472486 0.46036 
+0.497805 0.473716 0.489022 0.497108 0.490688 0.483382 0.5 0.495818 0.482899 
+0.494036 0.471448 0.483963 0.497506 0.474854 0.472486 0.495818 0.5 0.473716 
+0.484447 0.491474 0.463872 0.486486 0.486389 0.46036 0.482899 0.473716 0.5 
+------------------------------------------------------
+prior mean for user 3 is:
+0.49 
+0.5 
+0.46 
+0.49 
+0.53 
+0.48 
+0.485 
+0.46 
+0.545 
+
+
+------------------------------------------------------
+kernel matrix for user 3 is:
+0.5 0.4996 0.498004 0.4998 0.489707 0.498004 0.4995 0.497407 0.492753 
+0.4996 0.5 0.49681 0.499001 0.493246 0.498403 0.4995 0.495025 0.49552 
+0.498004 0.49681 0.5 0.497407 0.485417 0.498403 0.498702 0.498203 0.48532 
+0.4998 0.499001 0.497407 0.5 0.487168 0.496612 0.498702 0.498004 0.491572 
+0.489707 0.493246 0.485417 0.487168 0.5 0.493246 0.491965 0.477903 0.497108 
+0.498004 0.498403 0.498403 0.496612 0.493246 0.5 0.4995 0.494234 0.491572 
+0.4995 0.4995 0.498702 0.498702 0.491965 0.4995 0.5 0.496314 0.492654 
+0.497407 0.495025 0.498203 0.498004 0.477903 0.494234 0.496314 0.5 0.481838 
+0.492753 0.49552 0.48532 0.491572 0.497108 0.491572 0.492654 0.481838 0.5 
+------------------------------------------------------
+observed accuracy for user 0 with algorithm 0 is: 0.04
+observed accuracy for user 0 with algorithm 1 is: 0.05
+observed accuracy for user 0 with algorithm 2 is: 0.03
+observed accuracy for user 0 with algorithm 3 is: 0.04
+observed accuracy for user 0 with algorithm 4 is: 0.04
+observed accuracy for user 0 with algorithm 5 is: 0.04
+observed accuracy for user 0 with algorithm 6 is: 0.04
+observed accuracy for user 0 with algorithm 7 is: 0.03
+observed accuracy for user 0 with algorithm 8 is: 0.04
+observed accuracy for user 1 with algorithm 0 is: 0.08
+observed accuracy for user 1 with algorithm 1 is: 0.13
+observed accuracy for user 1 with algorithm 2 is: 0.13
+observed accuracy for user 1 with algorithm 3 is: 0.12
+observed accuracy for user 1 with algorithm 4 is: 0.12
+observed accuracy for user 1 with algorithm 5 is: 0.12
+observed accuracy for user 1 with algorithm 6 is: 0.12
+observed accuracy for user 1 with algorithm 7 is: 0.12
+observed accuracy for user 1 with algorithm 8 is: 0.03
+observed accuracy for user 2 with algorithm 0 is: 0.25
+observed accuracy for user 2 with algorithm 1 is: 0.3
+observed accuracy for user 2 with algorithm 2 is: 0.3
+observed accuracy for user 2 with algorithm 3 is: 0.21
+observed accuracy for user 2 with algorithm 4 is: 0.26
+observed accuracy for user 2 with algorithm 5 is: 0.28
+observed accuracy for user 2 with algorithm 6 is: 0.2
+observed accuracy for user 2 with algorithm 7 is: 0.23
+observed accuracy for user 2 with algorithm 8 is: 0.28
+observed accuracy for user 3 with algorithm 0 is: 0.27
+observed accuracy for user 3 with algorithm 1 is: 0.34
+observed accuracy for user 3 with algorithm 2 is: 0.29
+observed accuracy for user 3 with algorithm 3 is: 0.36
+observed accuracy for user 3 with algorithm 4 is: 0.33
+observed accuracy for user 3 with algorithm 5 is: 0.27
+observed accuracy for user 3 with algorithm 6 is: 0.35
+observed accuracy for user 3 with algorithm 7 is: 0.32
+observed accuracy for user 3 with algorithm 8 is: 0.35
+variance is: 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+
+Iteration: 1
+beta_t is: 2.89037
+tmp_reward is: 3.8311
+tmp_reward is: 2.59547
+tmp_reward is: 1.17203
+tmp_reward is: 7.81673
+tmp_reward is: 5.20355
+tmp_reward is: 1.49376
+tmp_reward is: 1.38432
+tmp_reward is: 1.25562
+tmp_reward is: 2.61169
+4 has been chosen 1 times by user 0
+tmp_reward is: 3.82681
+tmp_reward is: 2.59458
+tmp_reward is: 1.16326
+tmp_reward is: 7.81191
+tmp_reward is: 5.2224
+tmp_reward is: 1.48304
+tmp_reward is: 1.36861
+tmp_reward is: 1.24205
+tmp_reward is: 2.62884
+4 has been chosen 1 times by user 1
+tmp_reward is: 3.8361
+tmp_reward is: 2.58172
+tmp_reward is: 1.15233
+tmp_reward is: 7.79798
+tmp_reward is: 5.19955
+tmp_reward is: 1.46626
+tmp_reward is: 1.33932
+tmp_reward is: 1.21562
+tmp_reward is: 2.63169
+4 has been chosen 1 times by user 2
+tmp_reward is: 3.8811
+tmp_reward is: 2.58172
+tmp_reward is: 1.18983
+tmp_reward is: 7.84048
+tmp_reward is: 5.26955
+tmp_reward is: 1.51876
+tmp_reward is: 1.38932
+tmp_reward is: 1.25062
+tmp_reward is: 2.67669
+4 has been chosen 1 times by user 3
+pick up user with user id: 0
+observe_accu is: 0.04 noise is: 0.01
+updated mean is: 0.0478573 after T = 1, user0 's current_var is: 0.0418447, and previous var is: 0.5
+updated mean is: 0.0478477 after T = 1, user0 's current_var is: 0.042028, and previous var is: 0.5
+updated mean is: 0.0466524 after T = 1, user0 's current_var is: 0.064623, and previous var is: 0.5
+updated mean is: 0.04999 after T = 1, user0 's current_var is: 9.998e-05, and previous var is: 0.5
+updated mean is: 0.0489273 after T = 1, user0 's current_var is: 0.0211286, and previous var is: 0.5
+updated mean is: 0.0486778 after T = 1, user0 's current_var is: 0.0259996, and previous var is: 0.5
+updated mean is: 0.047552 after T = 1, user0 's current_var is: 0.0476718, and previous var is: 0.5
+updated mean is: 0.0488436 after T = 1, user0 's current_var is: 0.0227654, and previous var is: 0.5
+updated mean is: 0.0465265 after T = 1, user0 's current_var is: 0.0669695, and previous var is: 0.5
+
+updated variance is: 
+0.0418447 0.042028 0.064623 9.998e-05 0.0211286 0.0259996 0.0476718 0.0227654 0.0669695 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+
+
+Iteration: 2
+beta_t is: 4.27667
+tmp_reward is: 1.24116
+tmp_reward is: 0.781995
+tmp_reward is: 0.365811
+tmp_reward is: 0.176424
+tmp_reward is: 1.23405
+tmp_reward is: 0.336807
+tmp_reward is: 0.387212
+tmp_reward is: 0.254053
+tmp_reward is: 0.9955
+1 has been chosen 1 times by user 0
+tmp_reward is: 4.56064
+tmp_reward is: 3.04506
+tmp_reward is: 1.32119
+tmp_reward is: 9.40254
+tmp_reward is: 6.24803
+tmp_reward is: 1.70783
+tmp_reward is: 1.5643
+tmp_reward is: 1.41314
+tmp_reward is: 3.09013
+4 has been chosen 2 times by user 1
+tmp_reward is: 4.56993
+tmp_reward is: 3.0322
+tmp_reward is: 1.31026
+tmp_reward is: 9.38861
+tmp_reward is: 6.22518
+tmp_reward is: 1.69104
+tmp_reward is: 1.53502
+tmp_reward is: 1.38671
+tmp_reward is: 3.09299
+4 has been chosen 2 times by user 2
+tmp_reward is: 4.61493
+tmp_reward is: 3.0322
+tmp_reward is: 1.34776
+tmp_reward is: 9.43111
+tmp_reward is: 6.29518
+tmp_reward is: 1.74354
+tmp_reward is: 1.58502
+tmp_reward is: 1.42171
+tmp_reward is: 3.13799
+4 has been chosen 2 times by user 3
+user 0 's current var is: 0.0418447  , and previous var is: 0.5
+user 1 's current var is: 0.5  , and previous var is: 0.5
+user 2 's current var is: 0.5  , and previous var is: 0.5
+user 3 's current var is: 0.5  , and previous var is: 0.5
+pick up user with user id: 1
+observe_accu is: 0.12 noise is: 0.01
+updated mean is: 0.0855336 after T = 2, user1 's current_var is: 0.0483497, and previous var is: 0.5
+updated mean is: 0.0835053 after T = 2, user1 's current_var is: 0.0695169, and previous var is: 0.5
+updated mean is: 0.0847151 after T = 2, user1 's current_var is: 0.0569529, and previous var is: 0.5
+updated mean is: 0.089991 after T = 2, user1 's current_var is: 4.9995e-05, and previous var is: 0.5
+updated mean is: 0.08798 after T = 2, user1 's current_var is: 0.0221446, and previous var is: 0.5
+updated mean is: 0.0837729 after T = 2, user1 's current_var is: 0.066753, and previous var is: 0.5
+updated mean is: 0.0865143 after T = 2, user1 's current_var is: 0.0379338, and previous var is: 0.5
+updated mean is: 0.0874887 after T = 2, user1 's current_var is: 0.0274668, and previous var is: 0.5
+updated mean is: 0.0829725 after T = 2, user1 's current_var is: 0.074992, and previous var is: 0.5
+
+updated variance is: 
+0.0418447 0.042028 0.064623 9.998e-05 0.0211286 0.0259996 0.0476718 0.0227654 0.0669695 
+0.0483497 0.0695169 0.0569529 4.9995e-05 0.0221446 0.066753 0.0379338 0.0274668 0.074992 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+
+
+Iteration: 3
+beta_t is: 5.0876
+tmp_reward is: 1.34939
+tmp_reward is: 0.848579
+tmp_reward is: 0.394757
+tmp_reward is: 0.187891
+tmp_reward is: 1.34153
+tmp_reward is: 0.362939
+tmp_reward is: 0.418018
+tmp_reward is: 0.272664
+tmp_reward is: 1.08157
+1 has been chosen 2 times by user 0
+tmp_reward is: 1.48458
+tmp_reward is: 1.11333
+tmp_reward is: 0.411509
+tmp_reward is: 0.187506
+tmp_reward is: 1.4113
+tmp_reward is: 0.587324
+tmp_reward is: 0.416984
+tmp_reward is: 0.333336
+tmp_reward is: 1.17826
+1 has been chosen 1 times by user 1
+tmp_reward is: 4.94404
+tmp_reward is: 3.26186
+tmp_reward is: 1.39078
+tmp_reward is: 10.1995
+tmp_reward is: 6.74805
+tmp_reward is: 1.80564
+tmp_reward is: 1.63478
+tmp_reward is: 1.47393
+tmp_reward is: 3.32816
+4 has been chosen 3 times by user 2
+tmp_reward is: 4.98904
+tmp_reward is: 3.26186
+tmp_reward is: 1.42828
+tmp_reward is: 10.242
+tmp_reward is: 6.81805
+tmp_reward is: 1.85814
+tmp_reward is: 1.68478
+tmp_reward is: 1.50893
+tmp_reward is: 3.37316
+4 has been chosen 3 times by user 3
+user 0 's current var is: 0.0418447  , and previous var is: 0.0418447
+user 1 's current var is: 0.0483497  , and previous var is: 0.5
+user 2 's current var is: 0.5  , and previous var is: 0.5
+user 3 's current var is: 0.5  , and previous var is: 0.5
+pick up user with user id: 0
+observe_accu is: 0.04 noise is: 0.01
+updated mean is: 0.0899497 after T = 3, user0 's current_var is: 4.99403e-05, and previous var is: 0.0418447
+updated mean is: 0.050528 after T = 3, user0 's current_var is: 0.0418585, and previous var is: 0.042028
+updated mean is: 0.0758475 after T = 3, user0 's current_var is: 0.0445166, and previous var is: 0.064623
+updated mean is: 0.0500863 after T = 3, user0 's current_var is: 9.97613e-05, and previous var is: 9.998e-05
+updated mean is: 0.0287354 after T = 3, user0 's current_var is: 0.011511, and previous var is: 0.0211286
+updated mean is: 0.0712359 after T = 3, user0 's current_var is: 0.0139958, and previous var is: 0.0259996
+updated mean is: 0.0631997 after T = 3, user0 's current_var is: 0.0418959, and previous var is: 0.0476718
+updated mean is: 0.0683334 after T = 3, user0 's current_var is: 0.013805, and previous var is: 0.0227654
+updated mean is: 0.0806506 after T = 3, user0 's current_var is: 0.039501, and previous var is: 0.0669695
+
+updated variance is: 
+4.99403e-05 0.0418585 0.0445166 9.97613e-05 0.011511 0.0139958 0.0418959 0.013805 0.039501 
+0.0483497 0.0695169 0.0569529 4.9995e-05 0.0221446 0.066753 0.0379338 0.0274668 0.074992 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+
+
+Iteration: 4
+beta_t is: 5.66296
+tmp_reward is: 0.137388
+tmp_reward is: 0.893619
+tmp_reward is: 0.380667
+tmp_reward is: 0.195417
+tmp_reward is: 1.03532
+tmp_reward is: 0.314497
+tmp_reward is: 0.429611
+tmp_reward is: 0.252218
+tmp_reward is: 0.919315
+5 has been chosen 1 times by user 0
+tmp_reward is: 1.56157
+tmp_reward is: 1.17
+tmp_reward is: 0.429493
+tmp_reward is: 0.192873
+tmp_reward is: 1.48413
+tmp_reward is: 0.615035
+tmp_reward is: 0.43517
+tmp_reward is: 0.346865
+tmp_reward is: 1.23853
+1 has been chosen 2 times by user 1
+tmp_reward is: 5.19163
+tmp_reward is: 3.41385
+tmp_reward is: 1.44407
+tmp_reward is: 10.7362
+tmp_reward is: 7.09409
+tmp_reward is: 1.88148
+tmp_reward is: 1.70081
+tmp_reward is: 1.53166
+tmp_reward is: 3.4838
+4 has been chosen 4 times by user 2
+tmp_reward is: 5.23663
+tmp_reward is: 3.41385
+tmp_reward is: 1.48157
+tmp_reward is: 10.7787
+tmp_reward is: 7.16409
+tmp_reward is: 1.93398
+tmp_reward is: 1.75081
+tmp_reward is: 1.56666
+tmp_reward is: 3.5288
+4 has been chosen 4 times by user 3
+user 0 's current var is: 0.011511  , and previous var is: 0.0418447
+user 1 's current var is: 0.0483497  , and previous var is: 0.0483497
+user 2 's current var is: 0.5  , and previous var is: 0.5
+user 3 's current var is: 0.5  , and previous var is: 0.5
+pick up user with user id: 1
+observe_accu is: 0.08 noise is: 0.01
+updated mean is: 0.070334 after T = 4, user1 's current_var is: 4.93047e-05, and previous var is: 0.0483497
+updated mean is: 0.0818739 after T = 4, user1 's current_var is: 0.0689024, and previous var is: 0.0695169
+updated mean is: 0.0750816 after T = 4, user1 's current_var is: 0.0374098, and previous var is: 0.0569529
+updated mean is: 0.0901851 after T = 4, user1 's current_var is: 5.05925e-05, and previous var is: 4.9995e-05
+updated mean is: 0.0924521 after T = 4, user1 's current_var is: 0.0182058, and previous var is: 0.0221446
+updated mean is: 0.0704789 after T = 4, user1 's current_var is: 0.0297475, and previous var is: 0.066753
+updated mean is: 0.0799192 after T = 4, user1 's current_var is: 0.0286841, and previous var is: 0.0379338
+updated mean is: 0.0814559 after T = 4, user1 's current_var is: 0.0197031, and previous var is: 0.0274668
+updated mean is: 0.0724975 after T = 4, user1 's current_var is: 0.0519311, and previous var is: 0.074992
+
+updated variance is: 
+4.99403e-05 0.0418585 0.0445166 9.97613e-05 0.011511 0.0139958 0.0418959 0.013805 0.039501 
+4.93047e-05 0.0689024 0.0374098 5.05925e-05 0.0182058 0.0297475 0.0286841 0.0197031 0.0519311 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+
+
+Iteration: 5
+beta_t is: 6.10925
+tmp_reward is: 0.139221
+tmp_reward is: 0.926211
+tmp_reward is: 0.39245
+tmp_reward is: 0.201035
+tmp_reward is: 1.07424
+tmp_reward is: 0.323901
+tmp_reward is: 0.443775
+tmp_reward is: 0.259327
+tmp_reward is: 0.951735
+5 has been chosen 2 times by user 0
+tmp_reward is: 0.119291
+tmp_reward is: 1.20537
+tmp_reward is: 0.365314
+tmp_reward is: 0.197681
+tmp_reward is: 1.4073
+tmp_reward is: 0.438838
+tmp_reward is: 0.394822
+tmp_reward is: 0.30963
+tmp_reward is: 1.07128
+5 has been chosen 1 times by user 1
+tmp_reward is: 5.37512
+tmp_reward is: 3.52649
+tmp_reward is: 1.48356
+tmp_reward is: 11.1339
+tmp_reward is: 7.35055
+tmp_reward is: 1.93769
+tmp_reward is: 1.74974
+tmp_reward is: 1.57444
+tmp_reward is: 3.59914
+4 has been chosen 5 times by user 2
+tmp_reward is: 5.42012
+tmp_reward is: 3.52649
+tmp_reward is: 1.52106
+tmp_reward is: 11.1764
+tmp_reward is: 7.42055
+tmp_reward is: 1.99019
+tmp_reward is: 1.79974
+tmp_reward is: 1.60944
+tmp_reward is: 3.64414
+4 has been chosen 5 times by user 3
+user 0 's current var is: 0.011511  , and previous var is: 0.011511
+user 1 's current var is: 0.0182058  , and previous var is: 0.0483497
+user 2 's current var is: 0.5  , and previous var is: 0.5
+user 3 's current var is: 0.5  , and previous var is: 0.5
+pick up user with user id: 0
+observe_accu is: 0.04 noise is: 0.01
+updated mean is: 0.0898642 after T = 5, user0 's current_var is: 4.98907e-05, and previous var is: 4.99403e-05
+updated mean is: 0.0385189 after T = 5, user0 's current_var is: 0.0408793, and previous var is: 0.0418585
+updated mean is: 0.108641 after T = 5, user0 's current_var is: 0.0372151, and previous var is: 0.0445166
+updated mean is: 0.0505992 after T = 5, user0 's current_var is: 9.79748e-05, and previous var is: 9.97613e-05
+updated mean is: 0.0698215 after T = 5, user0 's current_var is: 4.97838e-05, and previous var is: 0.011511
+updated mean is: 0.0539906 after T = 5, user0 's current_var is: 0.0119766, and previous var is: 0.0139958
+updated mean is: 0.0147377 after T = 5, user0 's current_var is: 0.0259503, and previous var is: 0.0418959
+updated mean is: 0.0620037 after T = 5, user0 's current_var is: 0.013533, and previous var is: 0.013805
+updated mean is: 0.0864064 after T = 5, user0 's current_var is: 0.039276, and previous var is: 0.039501
+
+updated variance is: 
+4.98907e-05 0.0408793 0.0372151 9.79748e-05 4.97838e-05 0.0119766 0.0259503 0.013533 0.039276 
+4.93047e-05 0.0689024 0.0374098 5.05925e-05 0.0182058 0.0297475 0.0286841 0.0197031 0.0519311 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+
+
+Iteration: 6
+beta_t is: 6.47389
+tmp_reward is: 0.14056
+tmp_reward is: 0.929351
+tmp_reward is: 0.406631
+tmp_reward is: 0.20459
+tmp_reward is: 0.1406
+tmp_reward is: 0.294594
+tmp_reward is: 0.323067
+tmp_reward is: 0.256668
+tmp_reward is: 0.980554
+9 has been chosen 1 times by user 0
+tmp_reward is: 0.120731
+tmp_reward is: 1.23841
+tmp_reward is: 0.37385
+tmp_reward is: 0.200842
+tmp_reward is: 1.44597
+tmp_reward is: 0.449671
+tmp_reward is: 0.404083
+tmp_reward is: 0.316341
+tmp_reward is: 1.10065
+5 has been chosen 2 times by user 1
+tmp_reward is: 5.52012
+tmp_reward is: 3.61551
+tmp_reward is: 1.51476
+tmp_reward is: 11.4482
+tmp_reward is: 7.55321
+tmp_reward is: 1.9821
+tmp_reward is: 1.78841
+tmp_reward is: 1.60824
+tmp_reward is: 3.69029
+4 has been chosen 6 times by user 2
+tmp_reward is: 5.56512
+tmp_reward is: 3.61551
+tmp_reward is: 1.55226
+tmp_reward is: 11.4907
+tmp_reward is: 7.62321
+tmp_reward is: 2.0346
+tmp_reward is: 1.83841
+tmp_reward is: 1.64324
+tmp_reward is: 3.73529
+4 has been chosen 6 times by user 3
+user 0 's current var is: 0.039276  , and previous var is: 0.011511
+user 1 's current var is: 0.0182058  , and previous var is: 0.0182058
+user 2 's current var is: 0.5  , and previous var is: 0.5
+user 3 's current var is: 0.5  , and previous var is: 0.5
+pick up user with user id: 0
+observe_accu is: 0.04 noise is: 0.01
+updated mean is: 0.0898237 after T = 6, user0 's current_var is: 4.98419e-05, and previous var is: 4.98907e-05
+updated mean is: 0.00516214 after T = 6, user0 's current_var is: 0.00782387, and previous var is: 0.0408793
+updated mean is: 0.139088 after T = 6, user0 's current_var is: 0.00967491, and previous var is: 0.0372151
+updated mean is: 0.0506034 after T = 6, user0 's current_var is: 9.79743e-05, and previous var is: 9.79748e-05
+updated mean is: 0.0698151 after T = 6, user0 's current_var is: 4.97825e-05, and previous var is: 4.97838e-05
+updated mean is: 0.0413088 after T = 6, user0 's current_var is: 0.00719869, and previous var is: 0.0119766
+updated mean is: -0.00101842 after T = 6, user0 's current_var is: 0.018575, and previous var is: 0.0259503
+updated mean is: 0.041729 after T = 6, user0 's current_var is: 0.00132098, and previous var is: 0.013533
+updated mean is: 0.0500925 after T = 6, user0 's current_var is: 9.9746e-05, and previous var is: 0.039276
+
+updated variance is: 
+4.98419e-05 0.00782387 0.00967491 9.79743e-05 4.97825e-05 0.00719869 0.018575 0.00132098 9.9746e-05 
+4.93047e-05 0.0689024 0.0374098 5.05925e-05 0.0182058 0.0297475 0.0286841 0.0197031 0.0519311 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+
+
+Iteration: 7
+beta_t is: 6.78219
+tmp_reward is: 0.141687
+tmp_reward is: 0.404056
+tmp_reward is: 0.294602
+tmp_reward is: 0.208217
+tmp_reward is: 0.142258
+tmp_reward is: 0.232234
+tmp_reward is: 0.265982
+tmp_reward is: 0.103979
+tmp_reward is: 0.0962131
+2 has been chosen 1 times by user 0
+tmp_reward is: 0.121917
+tmp_reward is: 1.26563
+tmp_reward is: 0.380881
+tmp_reward is: 0.203446
+tmp_reward is: 1.47782
+tmp_reward is: 0.458595
+tmp_reward is: 0.411712
+tmp_reward is: 0.321869
+tmp_reward is: 1.12485
+5 has been chosen 3 times by user 1
+tmp_reward is: 5.63956
+tmp_reward is: 3.68883
+tmp_reward is: 1.54047
+tmp_reward is: 11.7071
+tmp_reward is: 7.72014
+tmp_reward is: 2.01869
+tmp_reward is: 1.82026
+tmp_reward is: 1.63609
+tmp_reward is: 3.76537
+4 has been chosen 7 times by user 2
+tmp_reward is: 5.68456
+tmp_reward is: 3.68883
+tmp_reward is: 1.57797
+tmp_reward is: 11.7496
+tmp_reward is: 7.79014
+tmp_reward is: 2.07119
+tmp_reward is: 1.87026
+tmp_reward is: 1.67109
+tmp_reward is: 3.81037
+4 has been chosen 7 times by user 3
+user 0 's current var is: 0.00782387  , and previous var is: 0.039276
+user 1 's current var is: 0.0182058  , and previous var is: 0.0182058
+user 2 's current var is: 0.5  , and previous var is: 0.5
+user 3 's current var is: 0.5  , and previous var is: 0.5
+pick up user with user id: 1
+observe_accu is: 0.12 noise is: 0.01
+updated mean is: 0.0705083 after T = 7, user1 's current_var is: 4.93326e-05, and previous var is: 4.93047e-05
+updated mean is: 0.082429 after T = 7, user1 's current_var is: 0.0696567, and previous var is: 0.0689024
+updated mean is: 0.071977 after T = 7, user1 's current_var is: 0.0292511, and previous var is: 0.0374098
+updated mean is: 0.0935943 after T = 7, user1 's current_var is: 7.02412e-05, and previous var is: 5.05925e-05
+updated mean is: 0.0886697 after T = 7, user1 's current_var is: 1.57842e-05, and previous var is: 0.0182058
+updated mean is: 0.066589 after T = 7, user1 's current_var is: 0.0194823, and previous var is: 0.0297475
+updated mean is: 0.079558 after T = 7, user1 's current_var is: 0.0281852, and previous var is: 0.0286841
+updated mean is: 0.0869331 after T = 7, user1 's current_var is: 0.00849115, and previous var is: 0.0197031
+updated mean is: 0.0743149 after T = 7, user1 's current_var is: 0.0510607, and previous var is: 0.0519311
+
+updated variance is: 
+4.98419e-05 0.00782387 0.00967491 9.79743e-05 4.97825e-05 0.00719869 0.018575 0.00132098 9.9746e-05 
+4.93326e-05 0.0696567 0.0292511 7.02412e-05 1.57842e-05 0.0194823 0.0281852 0.00849115 0.0510607 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+
+
+Iteration: 8
+beta_t is: 7.04925
+tmp_reward is: 0.142698
+tmp_reward is: 0.411833
+tmp_reward is: 0.297634
+tmp_reward is: 0.211291
+tmp_reward is: 0.143671
+tmp_reward is: 0.235957
+tmp_reward is: 0.271188
+tmp_reward is: 0.105193
+tmp_reward is: 0.0971124
+2 has been chosen 2 times by user 0
+tmp_reward is: 0.123112
+tmp_reward is: 1.29586
+tmp_reward is: 0.347655
+tmp_reward is: 0.229651
+tmp_reward is: 0.130257
+tmp_reward is: 0.386805
+tmp_reward is: 0.414866
+tmp_reward is: 0.247835
+tmp_reward is: 1.13816
+2 has been chosen 1 times by user 1
+tmp_reward is: 5.74084
+tmp_reward is: 3.75101
+tmp_reward is: 1.56227
+tmp_reward is: 11.9267
+tmp_reward is: 7.8617
+tmp_reward is: 2.04971
+tmp_reward is: 1.84727
+tmp_reward is: 1.6597
+tmp_reward is: 3.82904
+4 has been chosen 8 times by user 2
+tmp_reward is: 5.78584
+tmp_reward is: 3.75101
+tmp_reward is: 1.59977
+tmp_reward is: 11.9692
+tmp_reward is: 7.9317
+tmp_reward is: 2.10221
+tmp_reward is: 1.89727
+tmp_reward is: 1.6947
+tmp_reward is: 3.87404
+4 has been chosen 8 times by user 3
+user 0 's current var is: 0.00782387  , and previous var is: 0.00782387
+user 1 's current var is: 0.0696567  , and previous var is: 0.0182058
+user 2 's current var is: 0.5  , and previous var is: 0.5
+user 3 's current var is: 0.5  , and previous var is: 0.5
+pick up user with user id: 1
+observe_accu is: 0.13 noise is: 0.01
+updated mean is: 0.0702558 after T = 8, user1 's current_var is: 4.93695e-05, and previous var is: 4.93326e-05
+updated mean is: 0.141188 after T = 8, user1 's current_var is: 9.7455e-05, and previous var is: 0.0696567
+updated mean is: 0.0561101 after T = 8, user1 's current_var is: 0.0255465, and previous var is: 0.0292511
+updated mean is: 0.094485 after T = 8, user1 's current_var is: 6.97196e-05, and previous var is: 7.02412e-05
+updated mean is: 0.0822888 after T = 8, user1 's current_var is: 1.59599e-05, and previous var is: 1.57842e-05
+updated mean is: 0.0653019 after T = 8, user1 's current_var is: 0.0195579, and previous var is: 0.0194823
+updated mean is: 0.0987577 after T = 8, user1 's current_var is: 0.0202554, and previous var is: 0.0281852
+updated mean is: 0.101981 after T = 8, user1 's current_var is: 0.00510804, and previous var is: 0.00849115
+updated mean is: 0.120581 after T = 8, user1 's current_var is: 0.00970173, and previous var is: 0.0510607
+
+updated variance is: 
+4.98419e-05 0.00782387 0.00967491 9.79743e-05 4.97825e-05 0.00719869 0.018575 0.00132098 9.9746e-05 
+4.93695e-05 9.7455e-05 0.0255465 6.97196e-05 1.59599e-05 0.0195579 0.0202554 0.00510804 0.00970173 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+
+
+Iteration: 9
+beta_t is: 7.28482
+tmp_reward is: 0.143574
+tmp_reward is: 0.418572
+tmp_reward is: 0.300261
+tmp_reward is: 0.213953
+tmp_reward is: 0.144895
+tmp_reward is: 0.239182
+tmp_reward is: 0.275698
+tmp_reward is: 0.106244
+tmp_reward is: 0.0978916
+2 has been chosen 3 times by user 0
+tmp_reward is: 0.123751
+tmp_reward is: 0.187328
+tmp_reward is: 0.31801
+tmp_reward is: 0.232282
+tmp_reward is: 0.1248
+tmp_reward is: 0.391455
+tmp_reward is: 0.38772
+tmp_reward is: 0.228846
+tmp_reward is: 0.591989
+9 has been chosen 1 times by user 1
+tmp_reward is: 5.8286
+tmp_reward is: 3.80488
+tmp_reward is: 1.58115
+tmp_reward is: 12.1169
+tmp_reward is: 7.98436
+tmp_reward is: 2.0766
+tmp_reward is: 1.87067
+tmp_reward is: 1.68016
+tmp_reward is: 3.88421
+4 has been chosen 9 times by user 2
+tmp_reward is: 5.8736
+tmp_reward is: 3.80488
+tmp_reward is: 1.61865
+tmp_reward is: 12.1594
+tmp_reward is: 8.05436
+tmp_reward is: 2.1291
+tmp_reward is: 1.92067
+tmp_reward is: 1.71516
+tmp_reward is: 3.92921
+4 has been chosen 9 times by user 3
+user 0 's current var is: 0.00782387  , and previous var is: 0.00782387
+user 1 's current var is: 0.00970173  , and previous var is: 0.0696567
+user 2 's current var is: 0.5  , and previous var is: 0.5
+user 3 's current var is: 0.5  , and previous var is: 0.5
+pick up user with user id: 0
+observe_accu is: 0.05 noise is: 0.01
+updated mean is: 0.0892373 after T = 9, user0 's current_var is: 4.95961e-05, and previous var is: 4.98419e-05
+updated mean is: 0.109555 after T = 9, user0 's current_var is: 3.31919e-05, and previous var is: 0.00782387
+updated mean is: 0.142103 after T = 9, user0 's current_var is: 0.00966841, and previous var is: 0.00967491
+updated mean is: 0.0524121 after T = 9, user0 's current_var is: 9.56358e-05, and previous var is: 9.79743e-05
+updated mean is: 0.0695357 after T = 9, user0 's current_var is: 4.97267e-05, and previous var is: 4.97825e-05
+updated mean is: 0.101198 after T = 9, user0 's current_var is: 0.00463464, and previous var is: 0.00719869
+updated mean is: -0.0828146 after T = 9, user0 's current_var is: 0.0137921, and previous var is: 0.018575
+updated mean is: 0.074078 after T = 9, user0 's current_var is: 0.000572888, and previous var is: 0.00132098
+updated mean is: 0.051315 after T = 9, user0 's current_var is: 9.86776e-05, and previous var is: 9.9746e-05
+
+updated variance is: 
+4.95961e-05 3.31919e-05 0.00966841 9.56358e-05 4.97267e-05 0.00463464 0.0137921 0.000572888 9.86776e-05 
+4.93695e-05 9.7455e-05 0.0255465 6.97196e-05 1.59599e-05 0.0195579 0.0202554 0.00510804 0.00970173 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 

@@ -1,0 +1,25 @@
+Plan:
+
+1. Generate synthetic:
+
+- prior
+- test dataset/decision points
+- cost 
+
+2. Settings
+
+- Plain setting
+* Compare with EI and random (slightly better than EI/time)
+
+- Cost-aware
+* Compare with EI/time (almost the same as EI/time)
+* Compare with plain setting
+
+- Multi-user cost aware
+* Compare with k-Round Robin 
+* Compare with Random
+* Compare with k-Round Robin + 'most variance drop'
+
+
+
+
